@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "4a197c7f2cca03dbe038136f",
+  "owner": "qhwchdra",
+  "repo": "page-db127bf2748c0e3c5c449871",
+  "title": "Xv",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "db127bf2748c0e3c5c449871",
+      "a": "Xv",
+      "b": "2027官方最新地址导航",
+      "entity": "Xv",
+      "brand": "Xv",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "77192923e670e7d51c5ee7a67812b6722c0e8e5a9b3c586b3a44da9007ded12e",
+      "content": {
+        "primary_entity": "Xv",
+        "keyword1": "Xv",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_DESCRIPTION": "，Xv 提供基础版、旗舰版与团队版三档订阅，适合不同设备数量与流量需求的用户。基础版每月 100GB 流量、支持 3 台设备；旗舰版每月 300GB 流量、支持 5 台设备，并设有 IPLC 专线游戏加速优化；团队版每月 1000GB 流量、支持 20 台设备，附带专属客户经理服务。三档均提供按年付方案，可按需选择。",
+          "AI_HERO_SUBTITLE": "多设备订阅，按需选择套餐",
+          "AI_HERO_INTRO": "Xv 是面向跨境访问场景的加速服务品牌，提供按月或按年订阅的基础版、旗舰版与团队版套餐。套餐在流量额度、设备数量、流媒体解锁与节点类型上有所区分，用户可依据自身设备数量与使用强度匹配对应方案。",
+          "AI_VISUAL_TITLE": "Xv 套餐与设备适配",
+          "AI_HIGHLIGHT_1": "基础版每月 100GB 流量",
+          "AI_HIGHLIGHT_2": "旗舰版 IPLC 专线游戏加速",
+          "AI_HIGHLIGHT_3": "团队版 20 台设备同时在线",
+          "AI_FEATURES_INTRO": "从套餐额度、设备数量与订阅周期三个角度，快速理解 Xv 的选项差异。",
+          "AI_FEATURES_TITLE": "Xv 套餐选择要点",
+          "AI_FEATURE_TITLE_1": "套餐额度",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB、旗舰版每月 300GB、团队版每月 1000GB，按用量选择对应档位。",
+          "AI_FEATURE_TITLE_2": "设备数量",
+          "AI_FEATURE_TEXT_2": "基础版支持 3 台、旗舰版支持 5 台、团队版支持 20 台设备同时在线，按常用设备数匹配。",
+          "AI_FEATURE_TITLE_3": "订阅周期",
+          "AI_FEATURE_TEXT_3": "三档套餐均提供按年付方案，年付价格分别为 ¥150/年、¥350/年与 ¥850/年。",
+          "AI_CLIENTS_TITLE": "客户端选择建议",
+          "AI_CLIENTS_INTRO": "Xv 的订阅配置依设备类型选用对应客户端，桌面端与移动端可分别按使用习惯选择。",
+          "AI_PLANS_TITLE": "对比三档套餐",
+          "AI_PLANS_INTRO": "基础版 ¥15/月、旗舰版 ¥35/月、团队版 ¥85/月；年付分别为 ¥150/年、¥350/年与 ¥850/年，可结合流量与设备数量对比。",
+          "AI_GUIDE_TITLE": "三步开始使用",
+          "AI_GUIDE_INTRO": "先确定套餐与服务要求，再按设备类型完成订阅配置。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TEXT_1": "根据设备数量与月流量需求，在基础版、旗舰版与团队版之间选定套餐。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认当前设备的系统版本与网络环境符合所选客户端的运行要求。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_STEP_TEXT_3": "在对应客户端中按文档导入订阅信息，完成节点选择与连接设置。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_CLOSING_TITLE": "按需求选对套餐",
+          "AI_CLOSING_TEXT": "先明确设备数量与流量预算，再选定 Xv 套餐并按客户端文档完成订阅配置。",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_QUESTION_1": "Xv 海外加速器支持哪些设备？",
+          "AI_FAQ_ANSWER_1": "可按设备类型选择客户端，常见手机、电脑与路由器均有对应配置方式。具体支持情况以所选客户端文档为准。",
+          "AI_FAQ_QUESTION_2": "三档套餐有什么区别？",
+          "AI_FAQ_ANSWER_2": "基础版每月 100GB、支持 3 台设备；旗舰版每月 300GB、支持 5 台设备并含 IPLC 专线；团队版每月 1000GB、支持 20 台设备。",
+          "AI_FAQ_QUESTION_3": "年付能省多少？",
+          "AI_FAQ_ANSWER_3": "基础版年付 ¥150、旗舰版 ¥350、团队版 ¥850，相当于付十个月使用十二个月。",
+          "AI_FAQ_QUESTION_4": "如何导入订阅？",
+          "AI_FAQ_ANSWER_4": "在客户端内找到订阅导入入口，粘贴订阅信息后更新节点，再选择线路连接。不同客户端操作略有差异，可参考对应文档。",
+          "AI_FAQ_QUESTION_5": "可以中途升级套餐吗？",
+          "AI_FAQ_ANSWER_5": "可根据使用情况选择更高档位订阅，具体升级方式与费用按所选订阅周期处理。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "txrxt.cn",
+    "host": "txrxt.cn"
+  },
+  "file_hashes": {
+    "index.html": "c4f572a2da4a8fda2c0d632ae9f07046069c41a48225fc053e653e4cdfea1af8",
+    "sitemap.xml": "d10c78caf83aa362f5db286d9b1ac3d7eef77c95bb73b4bd662d08e5716cebd7",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "349e8b8eccc71b819dd74f84cdc45f096de4a79bc341e3616bfe0676caebedb8",
+    "robots.txt": "2b4e28b876a1f3618c5d1a50075ee83892416bf6f18c4eae0bccb7d8a615e8de",
+    "99770d3ca107bc2467aafb9dbb63c80f.txt": "bbc0d5b521a8c7bbc25c74765ab8f3dd1e7aa6c40f49c940e394871f396c5dc7"
+  },
+  "revision": "954774612acd624219be82f3d1f549e0d2fada03c7290ffd180ca428d1177002"
+}
